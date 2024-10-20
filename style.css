@@ -343,8 +343,6 @@ html {
 /* #region logo */
 .logo {
   height: 24px;
-
-  border: 1px solid blue;
 }
 
 @media (max-width: 576px) {
